@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;hello&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../duber-pos" />
+      <root url="file://$PROJECT_DIR$/../adaptech" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../duber-pos" />
+      <root url="file://$PROJECT_DIR$/../adaptech" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
